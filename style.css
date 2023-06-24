@@ -1,0 +1,104 @@
+.navlist{
+	display: flex;
+	position: fixed;
+	top: 0px;
+	width:100%;
+	height: 50px;
+	background-color:palegoldenrod;
+	left:0px;
+	justify-content: space-between;
+	
+}
+.Logo{
+	padding:10px;
+	color: darkblue;
+	font-size: 25px;
+}
+.nav-link{
+	
+	padding: 18px;
+}
+.b{
+	color: darkblue;
+	font-size: 20px;
+	justify-content: space-evenly;
+	padding: 10px;
+	text-decoration: none;
+
+}
+.b:hover{
+	background-color: beige;
+}
+a{
+	color:darkorchid;
+	font-size: 15px;
+}
+h1{ 
+	padding: 5px;
+	color: darkred;
+	font-family: cursive;
+	box-shadow: navajowhite;
+
+}
+.table-div{
+	margin-top: 60px;
+	background-color:powderblue;
+	margin-left: 350px;
+
+	width:720px;
+	margin-bottom:10px;
+	padding-bottom: 20px;
+	padding: 15px;
+	box-shadow: 4px 4px burlywood;
+	border-radius: 5px;
+
+}
+.register{
+	background-color:powderblue;
+
+}
+input{
+	width: 98%;
+	margin-top: 3px;
+	margin:5px;
+}
+button{
+	width:100%;
+	background-color:black;
+	color:wheat;
+	font-weight: bold;
+	border: none;
+	padding: 5px;
+}
+.register{
+
+	width:720px;
+	margin-left: 350px;
+	padding: 19px;
+	box-shadow: 4px 4px burlywood;
+	border-radius: 5px;
+background-color:powderblue;
+}
+label{
+	margin:5px;
+	margin-left:5pxpx;
+	margin-top: 10px;
+	font-weight: bold;
+
+}
+.r1{
+	color: darkred;
+		margin-bottom: 20px;
+		padding: 10px;
+}
+table{
+	border-collapse:collapse;
+	padding: 5px;
+	margin:5px;
+	width: 95%;
+	
+}
+input{
+	padding: 5px;
+		border-radius:5px;
+}
